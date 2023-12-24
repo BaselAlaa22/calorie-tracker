@@ -1,0 +1,19 @@
+.add-btn {
+  background-color: var(--theme-color-normal);
+  color: var(--theme-background-light);
+  display: block;
+  border: none;
+  border-radius: 15px;
+  padding: 10px;
+  cursor: pointer;
+  margin: auto;
+  width: 40%;
+  max-width: 200px;
+  font-size: medium;
+}
+
+.title {
+  text-align: center;
+  font-weight: lighter;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}

@@ -1,0 +1,10 @@
+.styled-container {
+  background-color: var(--theme-background-light);
+  border: 3px solid var(--theme-background-normal);
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 5px 20px;
+}

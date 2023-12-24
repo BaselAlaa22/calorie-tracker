@@ -1,0 +1,14 @@
+.calorie-record {
+  background-color: white;
+  border: 1px solid var(--theme-background-light);
+  border-radius: 3px;
+  display: flex;
+  list-style: none;
+  justify-content: space-around;
+  align-items: center;
+  gap: 60px;
+  padding: 20px;
+  margin-bottom: 2px;
+  font-size: large;
+  color: var(--theme-background-dark);
+}
